@@ -7,6 +7,17 @@
     <com.Fldrawing.CircleSurfaceView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/circleSurfaceView"
+        />
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="45 minutes"
+            android:gravity="center"
+            android:layout_alignTop="@+id/circleSurfaceView"
+            android:layout_alignBottom="@+id/circleSurfaceView"
+            android:id="@+id/timeleft"
         />
 
 </RelativeLayout>

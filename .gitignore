@@ -1,6 +1,7 @@
 *.classes
 bin
 gen
+out
 local.properties
 # built application files
 *.apk

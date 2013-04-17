@@ -67,7 +67,7 @@ public class CircleAnimThread extends Thread {
                 synchronized (surfaceHolder) {
                     if(c != null) {
                         c.drawColor(Color.BLACK);
-                        c.drawArc(new RectF(2.0f, 2.0f, (float) panel.getMeasuredWidth() - 2.0f, (float) panel.getMeasuredHeight() - 2.0f),270.0f, (mins/60000.0f)*360.0f,false,paint);
+                        c.drawArc(new RectF(2.0f, 2.0f, (float) panel.getMeasuredWidth() - 2.0f, (float) panel.getMeasuredHeight() - 2.0f),270.0f, (mins/60000.0f)*360.0f,true,paint);
                     }
                 }
             } finally {

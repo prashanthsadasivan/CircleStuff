@@ -23,21 +23,27 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47a43ad-b69f-403a-b790-99a73b065afa" name="Default" comment="" />
+    <list default="true" id="d47a43ad-b69f-403a-b790-99a73b065afa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java" afterPath="$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/sv_main.xml" afterPath="$PROJECT_DIR$/res/layout/sv_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FLDrawing.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/circleshape.xml" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366168642665" ignored="false" />
     <file path="/main.xml" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366170748978" ignored="false" />
-    <file path="/CircleBackground.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366171413617" ignored="false" />
+    <file path="/CircleBackground.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366175534056" ignored="false" />
     <file path="/a.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366168976832" ignored="false" />
-    <file path="/MyActivity.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366171590716" ignored="false" />
+    <file path="/MyActivity.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366175861740" ignored="false" />
     <file path="/CircleSurfaceView.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366173364851" ignored="false" />
-    <file path="/Dummy.txt" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366171577035" ignored="false" />
-    <file path="/sv_main.xml" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366174758125" ignored="false" />
-    <file path="/CircleAnimThread.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366174516295" ignored="false" />
+    <file path="/Dummy.txt" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366175277654" ignored="false" />
+    <file path="/sv_main.xml" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366175633101" ignored="false" />
+    <file path="/CircleAnimThread.java" changelist="d47a43ad-b69f-403a-b790-99a73b065afa" time="1366175564238" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,21 +102,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="162" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+            <state line="24" column="178" selection-start="687" selection-end="687" vertical-scroll-proportion="0.6986028">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1229#1230#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircleAnimThread.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CircleAnimThread.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="23" selection-start="1407" selection-end="1409" vertical-scroll-proportion="0.21357286">
+            <state line="60" column="124" selection-start="1724" selection-end="1724" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,7 +151,7 @@
       <file leaf-file-name="sv_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/sv_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="397" selection-end="397" vertical-scroll-proportion="-2.5961537">
+            <state line="19" column="37" selection-start="790" selection-end="790" vertical-scroll-proportion="-5.480769">
               <folding />
             </state>
           </provider>
@@ -156,7 +163,7 @@
       <file leaf-file-name="CircleBackground.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleBackground.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="47" selection-start="1793" selection-end="1827" vertical-scroll-proportion="0.0">
+            <state line="80" column="147" selection-start="1971" selection-end="1976" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,16 +187,24 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/res/drawable/circleshape.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/src/com/Fldrawing/CircleBackground.java" />
-        <option value="$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java" />
         <option value="$PROJECT_DIR$/src/com/Fldrawing/CircleSurfaceView.java" />
-        <option value="$PROJECT_DIR$/res/layout/sv_main.xml" />
+        <option value="$PROJECT_DIR$/src/com/Fldrawing/CircleBackground.java" />
         <option value="$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java" />
+        <option value="$PROJECT_DIR$/res/layout/sv_main.xml" />
+        <option value="$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java" />
       </list>
     </option>
   </component>
@@ -519,7 +534,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955772" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899868" sideWeight="0.6666667" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32834852" sideWeight="0.6666667" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -528,13 +543,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296433" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13589077" sideWeight="0.6666667" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34932348" sideWeight="0.99284786" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13589077" sideWeight="0.6506765" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34932348" sideWeight="0.99284786" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -611,46 +626,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/circleshape.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="356" selection-end="356" vertical-scroll-proportion="-3.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="162" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Documents/android-sdk-macosx/platforms/android-10/android.jar!/android/view/SurfaceView.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.1497006">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleBackground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="47" selection-start="1793" selection-end="1827" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/sv_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="397" selection-end="397" vertical-scroll-proportion="-2.5961537">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleSurfaceView.java">
@@ -662,11 +642,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java">
+    <entry file="file://$PROJECT_DIR$/res/drawable/circleshape.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="23" selection-start="1407" selection-end="1409" vertical-scroll-proportion="0.21357286">
+        <state line="6" column="8" selection-start="356" selection-end="356" vertical-scroll-proportion="-3.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleBackground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="147" selection-start="1971" selection-end="1976" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/CircleAnimThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="124" selection-start="1724" selection-end="1724" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sv_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="37" selection-start="790" selection-end="790" vertical-scroll-proportion="-5.480769">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Fldrawing/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="178" selection-start="687" selection-end="687" vertical-scroll-proportion="0.6986028">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
           </folding>
         </state>
       </provider>
